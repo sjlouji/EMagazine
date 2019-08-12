@@ -13,7 +13,7 @@ Demobox CSS
     margin-top: -150px;
 }
 .close-box {
-    background: none repeat scroll 0 0 red;
+    background: none repeat scroll 0 0 #39CA74;
     position: absolute;
     right: -40px;
     top: 0;
